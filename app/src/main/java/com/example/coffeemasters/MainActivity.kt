@@ -34,11 +34,13 @@ class MainActivity : ComponentActivity() {
                 ) {
                     //Text("Hello world")
                     FirstComposable()
+                    Offer()
                 }
             }
         }
     }
 }
+
 
 @Preview(showBackground = true)
 @Composable
