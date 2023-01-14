@@ -33,8 +33,8 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     //Text("Hello world")
-                    FirstComposable()
-                    Offer()
+                    //FirstComposable()
+                    OffersPage()
                 }
             }
         }
